@@ -56,3 +56,8 @@
 >[2] <u>http://www.seeprettyface.com/research_notes.html#step3</u>  
 >[3] <u>http://www.gwylab.com/pdf/Note_StyleGAN.pdf</u>  
 >[4] <u>https://github.com/xUhEngwAng/StyleGAN-jittor</u>
+### 六、许可
+* * *
+本项目中由贡献者编写的文件在不做特殊说明的情况下使用 MIT LICENSE 开源。这意味着您可以任意使用、拷贝、修改、出版以及将本项目用于商业用途，但是在所有基于本项目的拷贝及其衍生品中都必须包含此开源许可证。
+
+其余部分的版权归属各自的作者。
